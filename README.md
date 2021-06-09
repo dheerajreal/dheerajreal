@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<br/>
+<br/>
+
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajreal&theme=github)
+
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dheerajreal&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dheerajreal&theme=github)
+
 <!--
 **dheerajreal/dheerajreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
