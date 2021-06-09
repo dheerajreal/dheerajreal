@@ -16,7 +16,10 @@ I also do Linux stuff and write bash scripts and Dockerfiles.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dheerajreal&theme=github)
 
 ---
-![https://app.pluralsight.com/profile/d-t-86](https://dheerajreal.github.io/cdn/images/pluralsight-screenshot.png)
+
+<a href="https://app.pluralsight.com/profile/d-t-86">
+<img src="https://dheerajreal.github.io/cdn/images/pluralsight-screenshot.png" alt="pluralsight-screenshot"/>
+<a/>
 
 <!--
 **dheerajreal/dheerajreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
