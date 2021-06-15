@@ -6,24 +6,16 @@ I make websites and REST APIs using Django/Python for cloud platforms.
 I also do Linux stuff and write bash scripts and Dockerfiles.
 <br />
 
----
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajreal&theme=github)
 
 ---
 
 <br />
 
-<span style="margin-right: auto">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dheerajreal&theme=github"
-        alt="repos-per-language" />
-</span>
-<span style="margin-left: auto">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dheerajreal&theme=github"
-        alt="most-commit-language" />
-</span>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dheerajreal&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dheerajreal&theme=github)
 
----
+<br />
 
 <!--
 **dheerajreal/dheerajreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
