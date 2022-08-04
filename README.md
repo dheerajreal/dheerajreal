@@ -6,6 +6,12 @@ I make websites and REST APIs using Django/Python for cloud platforms.
 I also do Linux stuff and write bash scripts and Dockerfiles.
 <br />
 
+<details>
+<summary>⚡️ Click for More</summary>
+<br />
+
+
+
 
 
   <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajreal&theme=github' style="width:100%" />
@@ -20,6 +26,7 @@ I also do Linux stuff and write bash scripts and Dockerfiles.
 
 <br/>
 
+</details>
 
 
 <br/>
