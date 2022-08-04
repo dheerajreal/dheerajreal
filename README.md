@@ -26,6 +26,11 @@ I also do Linux stuff and write bash scripts and Dockerfiles.
 
 <br/>
 
+<a href="https://app.pluralsight.com/profile/d-t-86">
+<img src="https://dheerajreal.github.io/cdn/images/pluralsight-screenshot.png" alt="pluralsight-screenshot"/>
+<a/>
+
+<br/>
 </details>
 
 
