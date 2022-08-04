@@ -14,14 +14,14 @@ I also do Linux stuff and write bash scripts and Dockerfiles.
 
 
 
-  <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajreal&theme=github' style="width:100%" />
+  <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajreal&theme=nord_dark' style="width:100%" />
 
 
 
 <br />
 <p>
-  <img src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dheerajreal&theme=github' style="width:49%" />
-  <img src='https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dheerajreal&theme=github' style="width:49%" />
+  <img src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dheerajreal&theme=nord_dark' style="width:49%" />
+  <img src='https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dheerajreal&theme=nord_dark' style="width:49%" />
 <p/>
 
 <br/>
