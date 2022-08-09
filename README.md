@@ -25,11 +25,11 @@ I also do Linux stuff and write bash scripts and Dockerfiles.
 <p/>
 
 <br/>
-
+<p align="center">
 <a href="https://app.pluralsight.com/profile/d-t-86">
-<img src="https://dheerajreal.github.io/cdn/images/pluralsight-screenshot.png" alt="pluralsight-screenshot"/>
-<a/>
-
+<img src="https://dheerajreal.github.io/cdn/images/pluralsight-screenshot2.png" alt="pluralsight-screenshot"/>
+</a>
+</p>
 <br/>
 </details>
 
