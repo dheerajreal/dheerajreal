@@ -10,13 +10,7 @@ I also do Linux stuff and write bash scripts and Dockerfiles.
 <summary>⚡️ Click for More</summary>
 <br />
 
-
-
-
-
   <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajreal&theme=nord_dark' style="width:100%" />
-
-
 
 <br />
 <p>
@@ -33,14 +27,11 @@ I also do Linux stuff and write bash scripts and Dockerfiles.
 <br/>
 </details>
 
-
-
 <p align="center">
   
   <img src="https://skillicons.dev/icons?i=python,django,aws,linux,docker,react,github,gitlab,bash,vscode,kubernetes" />
   
 </p>
-
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <br/>
@@ -57,4 +48,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
