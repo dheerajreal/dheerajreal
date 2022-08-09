@@ -34,6 +34,15 @@ I also do Linux stuff and write bash scripts and Dockerfiles.
 </details>
 
 
+
+<p align="center">
+  
+  <img src="https://skillicons.dev/icons?i=python,django,aws,linux,docker,react,github,gitlab,bash,vscode,kubernetes" />
+  
+</p>
+
+
+<!-- https://github.com/tandpfun/skill-icons -->
 <br/>
 <!--
 **dheerajreal/dheerajreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
